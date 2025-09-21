@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #8bd4ba;
+    margin: 0;
+    padding: 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
